@@ -1,0 +1,17 @@
+{
+  "name": "mov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mov.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "webtorrent": "^1.8.26",
+    "webtorrent-hybrid": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gowsikan",
+  "license": "ISC"
+}
